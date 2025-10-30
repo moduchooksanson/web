@@ -5,7 +5,14 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 마법 교실",
+    page_title="Streamlit 뚱냥이들 보금자리이 만든 레포지토리(저장소)에 streamlit_app.py 만들고 다음 내용 복붙해서 집어넣기
+
+import streamlit as st
+import pandas as pd
+
+# --- 1. 페이지 기본 설정 ---
+st.set_page_config(
+    page_title="Streamlit 뚱냥이들 보금자리",
     page_icon="🔮",
     layout="wide"
 )
